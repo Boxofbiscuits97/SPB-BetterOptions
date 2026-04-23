@@ -8,7 +8,7 @@ repository = "https://thunderstore.io"
 namespace = "Boxofbiscuits97"
 name = "BetterOptions"
 description = "Saves settings for Resolution, Fullscreen and Vsync between game launches"
-websiteUrl = "" # TODO: Add a link to your mod repository here (optional)
+websiteUrl = "https://github.com/Boxofbiscuits97/SPB-BetterOptions"
 containsNsfwContent = false
 
 [package.dependencies]
